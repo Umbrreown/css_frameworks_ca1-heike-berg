@@ -1,0 +1,23 @@
+.wrapper {
+  max-width: 800px;
+}
+
+.profileBox {
+  width: 100%;
+  justify-content: space-between;
+}
+
+.profileImage {
+  width: 100px;
+  height: 150px;
+}
+
+.friendImage {
+  width: 100px;
+}
+
+.back-btn {
+  position: relative;
+}
+
+/*# sourceMappingURL=profile.css.map */

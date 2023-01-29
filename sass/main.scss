@@ -1,0 +1,25 @@
+// Variable overrides first
+$primary: #900;
+$enable-shadows: true;
+$prefix: "mo-";
+
+// import Bootstrap
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+li {
+    list-style: none;
+}
+
+a,
+a:visited {
+    text-decoration: none;
+    color: #fff;
+    cursor: pointer;
+}
